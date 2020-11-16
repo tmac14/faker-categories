@@ -16,6 +16,7 @@
       "email": "josecostas1@gmail.com"
     }
   ],
+  "version": "0.1",
   "require": {
     "php": "^7.3||^8.0",
     "fakerphp/faker": "^1.9"
